@@ -96,6 +96,12 @@ h2 small {
 	margin-top: 0;
 }
 
+.bx-caption small {
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 14px;
+	display: block;
+}
+
 @media (min-width: 768px){
     .navbar-nav{
         float:none;
@@ -104,4 +110,6 @@ h2 small {
         table-layout: fixed;
     }
 }
+
+
 
